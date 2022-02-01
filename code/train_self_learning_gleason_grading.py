@@ -40,7 +40,7 @@ n_epochs = 30
 #learning_rate = 1*1e-3  # Attention
 learning_rate = 1*1e-2   # max, self-attention
 mode = 0
-aggregation = 'self_attention'  # 'max', 'attention', 'self_attention'
+aggregation = 'max'  # 'max', 'attention', 'self_attention'
 
 ########################################################
 # MIL Dataset preparation
